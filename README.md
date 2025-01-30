@@ -1,6 +1,6 @@
 # Form Matrix Web App Demo
 
-[Demo](assets/demo.gif)
+![Demo](assets/demo.gif)
 
 I built this project after seeing how a couple of friends uses Excel-based forms for their work. Coming from a mechanical engineering background, I've seen firsthand how many companies rely on Excel for processes that could be made much simpler with a proper web form. But here's the catch - many can't use external form tools due to compliance requirements.
 
